@@ -4,7 +4,7 @@ body {
     margin: auto;
     background: url(img/background.png) no-repeat center;
     height: 100%;
-    color: #fff;
+    color: blue;
 }
 .header {
     display: flex;
@@ -21,7 +21,7 @@ body {
 }
 .menu-item a{
     text-decoration: none;
-    color: #fff;
+    color: blue;
 }
 .active{
     font-weight: bold;
